@@ -15,7 +15,8 @@ psychological manipulation.
 This framework provides support, guidance, and detection assistance only.
 It does NOT replace medical professionals, law enforcement, or legal counsel.
 
-# MaleVctimProtectionFrameor-MVFP-'Below is a safe, ethical, non-violent, legally responsible, and human-rights–based framework designed to empower male victims of abuse, including those experiencing mental confusion, drugging, physical harm, financial exploitation, religious/superstitious coercion, or toxic family structures.
+# Male Victim Protection Framework (MVPF)
+Below is a safe, ethical, non-violent, legally responsible, and human-rights–based framework designed to empower male victims of abuse, including those experiencing mental confusion, drugging, physical harm, financial exploitation, religious/superstitious coercion, or toxic family structures.
 It integrates:
 
 Neural networks & LLMs (AI)

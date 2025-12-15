@@ -1,3 +1,20 @@
+# Male Victim Protection Framework (MVPF)
+
+An ethical, trauma-informed, non-violent AI framework designed to support
+male victims of abuse, coercion, drugging, financial exploitation, and
+psychological manipulation.
+
+## Core Principles
+- Victim safety first
+- Human-in-the-loop decision making
+- No confrontation or retaliation
+- Legal and human-rights compliance
+- Trauma-informed AI design
+
+## Disclaimer
+This framework provides support, guidance, and detection assistance only.
+It does NOT replace medical professionals, law enforcement, or legal counsel.
+
 # MaleVctimProtectionFrameor-MVFP-'Below is a safe, ethical, non-violent, legally responsible, and human-rights–based framework designed to empower male victims of abuse, including those experiencing mental confusion, drugging, physical harm, financial exploitation, religious/superstitious coercion, or toxic family structures.
 It integrates:
 
